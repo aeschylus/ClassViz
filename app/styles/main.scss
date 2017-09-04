@@ -1,0 +1,77 @@
+// bower:scss
+// endbower
+
+body, html {
+  background: #fafafa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+}
+
+#classChartContainer {
+}
+
+.classChart {
+ stroke: #000;
+ stroke-width: 2px;
+}
+
+.period {
+}
+
+.periodLabel {
+  fill: white;
+  alignment-baseline: central;
+}
+
+.timestamp {
+  alignment-baseline: hanging;
+}
+
+.directions {
+  fill: seagreen;
+}
+
+.exposition {
+  fill: blue
+}
+
+.guestSpeaker {
+  fill: green;
+}
+
+.individualWork {
+  fill: blue;
+}
+
+.lab {
+  fill: paper;
+}
+
+.lecture {
+  fill: orange;
+}
+
+.setup {
+  fill: red;
+}
+
+.sga {
+  fill: purple;
+}
+
+.smd {
+  fill: deeppink;
+}
+
+.wcd {
+  fill: deepskyblue;
+}
+
+.wte {
+  fill: brown;
+}

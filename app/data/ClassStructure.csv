@@ -1,0 +1,29 @@
+Teacher,LessonType,EvaluationType,Date,TotClassTime,Code,StartTime,EndTime,DiffTime (sept),DiffTime
+1,Lab,Observation,10/12/2016,45.65,Directions,0:04:33,0:04:52,0:00:19,0.32
+1,Lab,Observation,10/12/2016,45.65,Exposition,0:04:52,0:05:26,0:00:34,0.57
+1,Lab,Observation,10/12/2016,45.65,Directions,0:05:26,0:05:45,0:00:19,0.32
+1,Lab,Observation,10/12/2016,45.65,Setup (other),0:05:45,0:06:35,0:00:50,0.83
+1,Lab,Observation,10/12/2016,45.65,Directions,0:06:35,0:07:16,0:00:41,0.68
+1,Lab,Observation,10/12/2016,45.65,Visual Phenomena,0:07:16,0:08:05,0:00:49,0.82
+1,Lab,Observation,10/12/2016,45.65,Whole Class Discussion,0:08:05,0:09:55,0:01:50,1.83
+1,Lab,Observation,10/12/2016,45.65,Directions,0:09:55,0:12:06,0:02:11,2.18
+1,Lab,Observation,10/12/2016,45.65,Individual Work,0:12:06,0:12:54,0:00:48,0.80
+1,Lab,Observation,10/12/2016,45.65,Directions,0:12:54,0:18:09,0:05:15,5.25
+1,Lab,Observation,10/12/2016,45.65,Individual Work,0:18:09,0:19:24,0:01:15,1.25
+1,Lab,Observation,10/12/2016,45.65,Small Group Discussion,0:19:24,0:22:57,0:03:33,3.55
+1,Lab,Observation,10/12/2016,45.65,Directions,0:22:57,0:28:36,0:05:39,5.65
+1,Lab,Observation,10/12/2016,45.65,Lab,0:28:36,0:36:06,0:07:30,7.50
+1,Lab,Observation,10/12/2016,45.65,Whole Class Discussion,0:36:06,0:37:12,0:01:06,1.10
+1,Lab,Observation,10/12/2016,45.65,Individual Work,0:37:12,0:37:32,0:00:20,0.33
+1,Lab,Observation,10/12/2016,45.65,Whole Class Discussion,0:37:32,0:38:30,0:00:58,0.97
+1,Lab,Observation,10/12/2016,45.65,Lab,0:38:30,0:43:01,0:04:31,4.52
+1,Lab,Observation,10/12/2016,45.65,Lecture/IRE,0:43:01,0:45:07,0:02:06,2.10
+1,Lab,Observation,10/12/2016,45.65,Lab,0:45:07,0:50:12,0:05:05,5.08
+2,Small Group Activity,Observation,10/10/2016,28.4,Work Through Examples/IRE,0:04:02,0:12:40,0:08:38,8.63
+2,Small Group Activity,Observation,10/10/2016,28.4,Guest Speaker,0:12:40,0:19:29,0:06:49,6.82
+2,Small Group Activity,Observation,10/10/2016,28.4,Directions,0:19:29,0:19:50,0:00:21,0.35
+2,Small Group Activity,Observation,10/10/2016,28.4,Small Group Activity (Model Building),0:19:50,0:26:54,0:07:04,7.07
+2,Small Group Activity,Observation,10/10/2016,28.4,Whole Class Discussion,0:26:54,0:27:55,0:01:01,1.02
+2,Small Group Activity,Observation,10/10/2016,28.4,Directions,0:27:55,0:28:11,0:00:16,0.27
+2,Small Group Activity,Observation,10/10/2016,28.4,Small Group Activity (Model Building),0:28:11,0:30:45,0:02:34,2.57
+2,Small Group Activity,Observation,10/10/2016,28.4,Whole Class Discussion,0:30:45,0:32:27,0:01:42,1.70
